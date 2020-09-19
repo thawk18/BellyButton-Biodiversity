@@ -38,12 +38,7 @@ Extracted `sample_values` as the values for the bar chart,  `otu_ids` as the lab
 
 
 ## Advanced Challenge Assignment (Optional)
-
-
 * the Gauge Chart was adapted to plot the weekly washing frequency of the individual.
-
-
-* Update the chart whenever a new sample is selected.
 
 ![Weekly Washing Frequency Gauge](Images/gauge.png)
 
