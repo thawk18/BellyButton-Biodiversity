@@ -1,4 +1,12 @@
+
+
+
 # Plot.ly Homework - Belly Button Biodiversity
+
+
+Launch [Webpage](https://thawk18.github.io/BellyButton-Biodiversity/) (not working at the moment for a last minute error)
+
+All images are examples, I personalised some of the colours 
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
@@ -24,33 +32,20 @@ Extracted `sample_values` as the values for the bar chart,  `otu_ids` as the lab
 
 ![Bubble Chart](Images/bubble_chart.png)
 
-4. Extracted sample metadata, i.e., an individual's demographic information.
-
-5. Display each key-value pair from the metadata JSON object somewhere on the page.
+4. Extracted sample metadata, i.e., an individual's demographic informatio and displayed each key-value pair from the metadata JSON object.
 
 ![hw](Images/hw03.png)
 
-6. Update all of the plots any time that a new sample is selected.
+5. Plots updated everytime a dataset is selected
 
-Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
-
-![hw](Images/hw02.png)
 
 ## Advanced Challenge Assignment (Optional)
 
-The following task is advanced and therefore optional.
 
-* Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
+* the Gauge Chart was adapted to plot the weekly washing frequency of the individual.
 
-* You will need to modify the example gauge code to account for values ranging from 0 through 9.
 
 * Update the chart whenever a new sample is selected.
 
 ![Weekly Washing Frequency Gauge](Images/gauge.png)
-
-## Deployment
-
-* Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
-
-* Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
