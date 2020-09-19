@@ -6,9 +6,7 @@
 
 Launch [Webpage](https://thawk18.github.io/BellyButton-Biodiversity/) (not working at the moment for a last minute error)
 
-All images are examples, I personalised some of the colours 
-
-![Bacteria by filterforge.com](Images/bacteria.jpg)
+All images are pre-set examples, some colours were personalised
 
 In this assignment, I built an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
